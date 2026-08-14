@@ -24,7 +24,7 @@ in charge during the respective rounds. The original problem statements were not
 ---
 
 # 🎮 Project Development
-### Version 1 — Preliminary Round
+### Version 1 — Preliminary Round (round 1)
 
 The first version was created for the preliminary round.
 The project used:
@@ -124,48 +124,27 @@ The project involved applying several fundamental programming concepts through S
 
 ---
 
-# 📂 Repository Structure
-
-```text
-Scratch-Challenge-Mathscomp-2025/
-│
-├── README.md
-│
-├── projects/
-│   ├── Round-1/
-│   │   └── Scratch-Challenge-Round-1.sb3
-│   │
-│   ├── Redesigned-Version/
-│   │   └── Scratch-Challenge-Version-2.sb3
-│   │
-│   └── Final/
-│       └── Scratch-Challenge-Final.sb3
-│
-├── screenshots/
-│   ├── round-1.png
-│   ├── version-2.png
-│   ├── final.png
-│   └── certificate.png
-│
-└── assets/
-    └── [selected project assets]
-```
-
----
-
 # 🖼️ Screenshots
 
 ### Preliminary Round
 
-???
+![look](screenshots/round-1/look/round-1(look).png)
+![code](screenshots/round-1/code/round-1(code).png)
+
 
 ### Redesigned Version
 
-???
+![look 1](screenshots/version-2/look/round-2(look1).png)
+![look 2](screenshots/version-2/look/round-2(look2).png)
+![code 1](screenshots/version-2/code/round-2(code1).png)
+![code 2](screenshots/version-2/code/round-2(code2).png)
+
 
 ### Final Round
 
-???
+![code 1](screenshots/version-3/code/round-3(code1).png)
+![code 2](screenshots/version-3/code/round-3(code2).png)
+
 
 ### 🏆 Certificate
 The repository includes the certificate received for participation in the Mathscomp Carnival 2025 Scratch Challenge.
@@ -196,18 +175,8 @@ The original competition questions were provided directly by the organizers/teac
 
 Some visual and audio resources used in the redesigned project were sourced from online resources. They are included in the project only as part of the original competition work.
 
-**I also use my study materials and past work as a guide on how to understand the type of 
-programming structure to use based on the questions given.**
-
----
-
-### 🎬 Project Materials
-
-| File | Description |
-|---|---|
-| `poster.pdf` | Financial awareness campaign poster |
-| `presentation.pdf` | PDF version of the presentation |
-| `presentation.mp4` | Video version of the interactive presentation |
+I also use my **study materials** and past work as a guide on how to understand the type of 
+programming structure to use based on the questions given.
 
 ---
 
