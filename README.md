@@ -1,41 +1,205 @@
-# 💻 ICT Bootcamp Project
+# Scratch Challenge — Mathscomp Carnival 2025
 
-> **A team-based ICT project combining interactive presentation design, animation, visual communication, and awareness campaigns.**
+An individual Scratch programming project developed for the **Scratch Challenge** competition held as part of **Mathscomp Carnival 2025.**
 
-🏆 **Achievement: 1st Place**
+The project went through several iterations across the competition rounds, evolving from a simple Scratch implementation into a more interactive version with custom visuals, sound effects, animations, and visual feedback.
 
 ---
 
-## 📌 About the Project
+## 📌 Competition Overview
 
-This repository contains the final materials from an **ICT Boot Camp project** completed as a team.
-
-The project involved creating digital and visual materials to communicate awareness messages through different formats, including an **interactive presentation, poster, and animated video**.
-
-The project consisted of two campaign components:
-
-| Campaign | Focus |
+| Details | Information |
 |---|---|
-| 💰 **Kempen Jimat Cermat** | Financial awareness and responsible spending |
-| ⚖️ **Anti Rasuah** | Anti-corruption awareness |
+| **Competition** | Scratch Challenge |
+| **Event** | Mathscomp Carnival 2025 |
+| **Platform** | Scratch |
+| **Participation** | Individual |
+| **Competition Format** | Preliminary Round → Final Round |
+| **Result** | Passed the Preliminary Round |
+| **Final Result** | Did not place in the Top 3 |
 
-Through this project, I gained early experience in **digital content creation, interactive presentation design, animation, visual communication, and teamwork**.
+The programming problems were provided by the competition organizers/teacher 
+in charge during the respective rounds. The original problem statements were not retained.
 
 ---
 
-# 💰 Kempen Jimat Cermat
+# 🎮 Project Development
+### Version 1 — Preliminary Round
 
-### Financial Awareness Campaign
+The first version was created for the preliminary round.
+The project used:
 
-**Kempen Jimat Cermat** focused on encouraging responsible financial habits among the community, including teenagers and senior citizens.
+- Scratch’s built-in characters
+- Scratch’s built-in backdrops
+- Basic programming logic
+- Simple user interaction
+- No custom sound effects
+- No character movement or advanced animation
 
-The campaign promoted practical financial habits such as:
+The focus of this version was primarily on implementing the required solution using Scratch.
+**Result:** Successfully passed the preliminary round and advanced to the next stage.
 
-- 🛒 Buying essential items and avoiding unnecessary spending
-- 📊 Creating a realistic monthly budget
-- 📝 Recording daily expenses
-- 💰 Saving money regularly
-- 🔎 Comparing prices before making purchases
+---
+
+### Version 2 — Redesigned Project
+
+Before the final round, I redesigned and improved the original project 
+rather than simply keeping the first version.
+The improvements included:
+
+- Custom characters and backdrops sourced from online resources
+- Character sound effects
+- Sound feedback when an answer was entered
+- Character movement after the user submitted an answer
+- Characters moving toward the right side of the screen and leaving the scene
+- Audio feedback when the output was displayed
+- Jumping character animation
+- Yellow glitter visual effects around the character
+  
+These changes made the project more interactive and visually engaging while 
+building upon the original programming structure.
+
+---
+
+### Version 3 — Final Round
+
+For the final round, a new problem was provided by the competition organizers.
+
+Instead of completely rebuilding the project, I adapted the existing code and design 
+concept to accommodate the new question.
+
+This version demonstrates how the project could be modified and extended when the problem requirements changed.
+
+---
+
+# 💡 Development Progress
+
+```text
+Version 1
+   │
+   │ Passed Preliminary Round
+   ▼
+Version 2
+   │
+   │ Redesigned & Improved
+   │ • Custom visuals
+   │ • Sound effects
+   │ • Animations
+   │ • Visual feedback
+   ▼
+Version 3
+   │
+   │ Adapted for Final Round Problem
+   ▼
+Final Submission
+
+```
+---
+
+### 🧩 Programming Concepts
+
+The project involved applying several fundamental programming concepts through Scratch:
+
+- Event-driven programming
+- Conditional logic
+- User input
+- Variables
+- Program flow
+- Broadcasting and receiving messages
+- Character movement
+- Animation
+- Sound control
+- Visual feedback
+- Iterative development
+- Adapting existing code to new requirements
+
+---
+
+### 🛠️ Tools & Technologies
+
+**Scratch** — Programming and interactive project development
+**Scratch Blocks** — Visual programming
+**Image Assets** — Custom visual assets sourced from online resources
+**Audio Assets** — Sound effects used to enhance interaction
+
+---
+
+# 📂 Repository Structure
+
+```text
+Scratch-Challenge-Mathscomp-2025/
+│
+├── README.md
+│
+├── projects/
+│   ├── Round-1/
+│   │   └── Scratch-Challenge-Round-1.sb3
+│   │
+│   ├── Redesigned-Version/
+│   │   └── Scratch-Challenge-Version-2.sb3
+│   │
+│   └── Final/
+│       └── Scratch-Challenge-Final.sb3
+│
+├── screenshots/
+│   ├── round-1.png
+│   ├── version-2.png
+│   ├── final.png
+│   └── certificate.png
+│
+└── assets/
+    └── [selected project assets]
+```
+
+---
+
+# 🖼️ Screenshots
+
+### Preliminary Round
+
+???
+
+### Redesigned Version
+
+???
+
+### Final Round
+
+???
+
+### 🏆 Certificate
+The repository includes the certificate received for participation in the Mathscomp Carnival 2025 Scratch Challenge.
+???
+
+---
+
+# 📚 What I Learned
+
+This competition gave me practical experience in developing a project under changing requirements and limited preparation time.
+Through the different versions, I learned how to:
+
+- Translate a given problem into a working program
+- Build interactive projects using Scratch
+- Improve an existing program instead of starting from zero
+- Add animations and sound to improve user interaction
+- Adapt existing code when requirements changed
+- Think about both functionality and user experience
+- Iterate on a project based on new requirements
+
+The project also helped strengthen my interest in programming, problem-solving, and software development.
+
+---
+
+# 📜 Note on Competition Materials
+
+The original competition questions were provided directly by the organizers/teacher in charge and were not retained after the competition.
+
+Some visual and audio resources used in the redesigned project were sourced from online resources. They are included in the project only as part of the original competition work.
+
+**I also use my study materials and past work as a guide on how to understand the type of 
+programming structure to use based on the questions given.**
+
+---
 
 ### 🎬 Project Materials
 
@@ -45,148 +209,8 @@ The campaign promoted practical financial habits such as:
 | `presentation.pdf` | PDF version of the presentation |
 | `presentation.mp4` | Video version of the interactive presentation |
 
-### ✨ Interactive Presentation
-
-The presentation was designed with **animated and moving elements**.
-
-Individual elements were arranged and animated to appear in a specific sequence during the presentation. This allowed the information to be presented progressively rather than displaying all content at once.
-
-The repository includes both the **PDF version** and **video version** so the presentation can be viewed even without the original editable presentation file.
-
 ---
 
-# ⚖️ Anti Rasuah
-
-### Anti-Corruption Awareness Animation
-
-The project also included an **Anti Rasuah** animated video.
-
-The animation uses a short story-based scenario to communicate the importance of rejecting corruption and the consequences of corrupt behaviour.
-
-### 🎬 Project Material
-
-| File | Description |
-|---|---|
-| `animation.mp4` | Anti-corruption awareness animation |
-
----
-
-# 👩🏻‍💻 My Contribution
-
-This was a **team project**, and I contributed to the development of the digital and visual materials.
-
-My contributions included:
-
-- 🎨 Designing and arranging presentation elements
-- 🎞️ Creating the movement and animation sequence of presentation elements
-- 🖥️ Designing the interactive presentation layout
-- 📋 Organizing information into a clear presentation flow
-- 🖼️ Contributing to the visual campaign materials
-- 💡 Contributing ideas and content for the awareness campaigns
-- 🤝 Collaborating with team members to prepare the final project
-
-The interactive presentation required careful planning of the **position, timing, sequence, and movement** of individual elements to create a coherent presentation flow.
-
----
-
-# 🛠️ Skills & Tools
-
-### Digital & Technical Skills
-
-- Interactive Presentation Design
-- Animation & Element Sequencing
-- Digital Content Creation
-- Video-Based Communication
-- Visual Information Organization
-
-### Design & Communication
-
-- Presentation Layout
-- Visual Hierarchy
-- Visual Storytelling
-- Information Simplification
-- Audience-Focused Communication
-
-### Collaboration
-
-- Teamwork
-- Project Coordination
-- Combining Individual Contributions
-- Preparing Digital Materials for Presentation
-
----
-
-# 🏆 Achievement
-
-## 🥇 1st Place
-
-The project received **1st Place**.
-
-Each team member received an individual certificate recognising the achievement.
-
-The certificate included in this repository serves as documentation of the project achievement.
-
----
-
-# 👥 Team
-
-### Kumpulan Chum Bucket
-
-| Role | Name |
-|---|---|
-| Group Leader | Siti Norsyafiqah |
-| Member | Nur Arisya Nazilah |
-| Member | City Maryam Syafiqa |
-
----
-
-# 📂 Repository Structure
-
-```text
-ICT-Bootcamp-Project/
-│
-├── README.md
-│
-├── Kempen-Jimat-Cermat/
-│   ├── poster.pdf
-│   ├── presentation.pdf
-│   └── presentation.mp4
-│
-├── Anti-Rasuah/
-│   └── animation.mp4
-│
-└── Achievement/
-    └── certificate.pdf
-```
-
----
-
-# 📚 What I Learned
-
-This project gave me early hands-on experience in using digital tools to communicate information in an engaging way.
-
-Through the project, I learned how to:
-
-- Design interactive digital presentations
-- Use animation to control the flow of information
-- Organize information into a clear visual structure
-- Communicate messages through visual media
-- Adapt content for different audiences
-- Work collaboratively within a team
-- Combine creative and technical elements to communicate an idea
-
-Most importantly, the project helped me understand that technology can be used not only to build software, but also to **communicate ideas, educate audiences, and make information more engaging and accessible**.
-
----
-
-# 📁 Project Materials
-
-This repository preserves the available final materials from the project, including:
-
-- 📄 Financial awareness poster
-- 📄 Interactive presentation PDF
-- 🎬 Interactive presentation video
-- 🎬 Anti-corruption animation
-- 🏆 Achievement certificate
-
-These materials are preserved as part of my **academic and personal portfolio**, documenting one of my early experiences with digital technology, creative problem-solving, and collaborative project development.
+# 👤 Project Type
+**Individual Project**
+Developed as an individual participant for the **Scratch Challenge — Mathscomp Carnival 2025.**
